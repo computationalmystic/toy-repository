@@ -1,6 +1,7 @@
 Hi this is Edward Toebben
 
-I like to: 
-	reload
-	target shoot 
-	and play video games
+My helpful reference:
+ https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+
+My open source project:
+  https://kodi.tv

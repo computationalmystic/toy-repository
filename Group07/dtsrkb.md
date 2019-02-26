@@ -1,0 +1,2 @@
+-One Source that I found very helpful for learning more about git is opensource.com
+-An interesting open source project on github that relates to my cyber security class is located at https://github.com/pwn20wndstuff/Undecimus

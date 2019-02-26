@@ -1,0 +1,2 @@
+- Helpful reference: [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+- Interesting opensource project: [Caffe](https://github.com/BVLC/caffe)
